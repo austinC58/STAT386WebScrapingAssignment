@@ -1,1 +1,2 @@
 # STAT386WebScrapingAssignment
+This Repository contains my method for obtaining a data set for statmando.com. Statmando is a website containing many stats for professional disc golf. The desire data set is a combination a two tables on their site. The two tables are the Mixed and Female stats for major preformance. There are two files in this repository. 1. a ipnyb files containing the code I used to scape the website. 2. A csv files containint the resulting data set. 
